@@ -4,4 +4,4 @@ This game is based on the tutorial by HeartBeast at this link: https://www.youtu
 
 This is intended to be a vertical slice of a potential finished game. </p>
 
-![CitrusGame logo](https://raw.githubusercontent.com/CitrusGame/CitrusGameScreenshot.PNG?raw=true "CitrusGameScreenshot")
+![CitrusGame Screenshot](https://raw.githubusercontent.com/fujiason/CitrusGame/master/.github/CitrusGameScreenshot.PNG)
